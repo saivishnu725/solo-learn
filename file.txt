@@ -1,0 +1,4 @@
+This is a file called file.txt
+Number-2.
+Extra line for fun.
+Used to learn File Accessing and Writing stuffs in C.
